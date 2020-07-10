@@ -1,0 +1,12 @@
+{
+    "change_language": "Changer de langue",
+    "app_name": "Ma liste de tâches",
+    "create_todo": "Créer une nouvelle tâche",
+    "title": "Titre",
+    "note": "Remarque",
+    "save": "sauver",
+    "update":"Mettre à jour",
+    "todo_detail": "Détails de la tâche",
+    "edit_todo": "Modifier la tâche",
+    "delete_todo": "Supprimer tout"
+}

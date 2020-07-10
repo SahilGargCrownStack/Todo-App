@@ -1,0 +1,12 @@
+{
+    "change_language": "Change Language",
+    "app_name": "My Todo List",
+    "create_todo": "Create New Todo",
+    "title": "Title",
+    "note": "Note",
+    "save": "Save",
+    "update":"Update",
+    "todo_detail": "Todo Detail",
+    "edit_todo": "Edit Todo",
+    "delete_todo": "Delete Todo"
+}
